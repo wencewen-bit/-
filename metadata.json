@@ -1,0 +1,7 @@
+{
+  "name": "Copy of 魔方配音：魔方教程创作助手",
+  "description": "专业的魔方教程配音创作工具。使用 Gemini TTS 引擎为不同的还原步骤生成高质量的 AI 语音。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
